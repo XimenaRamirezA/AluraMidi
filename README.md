@@ -9,7 +9,7 @@ El propósito de esta página web es hacer que el usuario pueda jugar con una co
 
 Primera parte de la página web:
 
-![Primera parte de la página web](secret-number-game-main.png) 
+![Primera parte de la página web](Capturadepantalla2024-06-21223009.png) 
 
 
 ## Tecnologías
