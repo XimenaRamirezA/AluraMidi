@@ -9,7 +9,7 @@ El propósito de esta página web es hacer que el usuario pueda jugar con una co
 
 Primera parte de la página web:
 
-![Primera parte de la página web](images/https://github.com/XimenaRamirezA/AluraMidi/blob/main/images/Captura%20de%20pantalla%202024-06-21%20223009.png) 
+![Primera parte de la página web](aluramidi-sc.png) 
 
 
 ## Tecnologías
