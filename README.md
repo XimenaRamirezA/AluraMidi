@@ -9,7 +9,7 @@ El propósito de esta página web es hacer que el usuario pueda jugar con una co
 
 Primera parte de la página web:
 
-![Primera parte de la página web](aluramidi-sc.png) 
+![Primera parte de la página web](images/aluramidi-sc.png) 
 
 
 ## Tecnologías
